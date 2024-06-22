@@ -1,9 +1,3 @@
-<!--타이틀 부분-->
-<div align="center">
-  <P> 저 임상헌을 소개합니다🖐️ </P>
-</div>
-
-<br>
 
 <!--개인 정보 부분-->
 <div align="center">
