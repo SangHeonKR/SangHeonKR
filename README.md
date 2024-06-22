@@ -29,6 +29,10 @@
       <td>이메일:</td>
       <td>tkdgjs9768@naver.com</td>
     </tr>
+    <tr>
+      <td>병역:</td>
+      <td>대한민국 학군사관후보생 ROTC 63기 </td>
+    </tr>
   </table>
 </div>
 
