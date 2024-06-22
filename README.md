@@ -8,11 +8,28 @@
 <!--개인 정보 부분-->
 <div align="center">
   <h3>📚 내 정보 📚</h3>
-  <p>이름: 임상헌</p>
-  <p>전공 : 경제학과 </p>
-  <p>복수전공 : 소프트웨어학부 빅데이터전공 </p>
-  <p>대학교:  한림대학교 졸업 (2025) </p>
-  <p>이메일: tkdgjs9768@naver.com </p>
+  <table>
+    <tr>
+      <td>이름:</td>
+      <td>임상헌</td>
+    </tr>
+    <tr>
+      <td>전공:</td>
+      <td>경제학과</td>
+    </tr>
+    <tr>
+      <td>복수전공:</td>
+      <td>소프트웨어학부 빅데이터전공</td>
+    </tr>
+    <tr>
+      <td>대학교:</td>
+      <td>한림대학교 졸업 (2025)</td>
+    </tr>
+    <tr>
+      <td>이메일:</td>
+      <td>tkdgjs9768@naver.com</td>
+    </tr>
+  </table>
 </div>
 
 <br>
