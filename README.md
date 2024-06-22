@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=slice)
+  <img src="[https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB](https://files.oaiusercontent.com/file-fD7rpZh8LMoW8hnDDECstZIe?se=2024-06-22T17%3A36%3A42Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5529af89-dc99-428c-8c01-6ece627daf17.webp&sig=fwe74%2BPLdwts%2BxS5pYzM9pve/j7kyVinVlyN31GkZ%2B0%3D)" />&nbsp
 </div>
 
 <!--내용 부분-->
