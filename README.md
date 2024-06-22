@@ -5,6 +5,7 @@
 
 <!--내용 부분-->
 <h3 align="center">✨ 기술 스택 ✨</h3>
+<p> 웹 분야 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
