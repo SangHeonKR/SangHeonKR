@@ -1,6 +1,37 @@
+  <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+        .title {
+            font-size: 3em;
+            font-weight: bold;
+            color: #333;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+                color: #333;
+            }
+            50% {
+                transform: scale(1.1);
+                color: #ff4500;
+            }
+            100% {
+                transform: scale(1);
+                color: #333;
+            }
+        }
+    </style>
+
 <!--타이틀 부분-->
 <div align="center">
-  <p> SangHeon KR </p>
+  <div class="title">SangHeon KR</div>
 </div>
 
 <!--내용 부분-->
